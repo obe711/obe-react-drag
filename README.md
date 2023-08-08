@@ -6,7 +6,7 @@ A simple and lightweight component for making elements draggable.
 
 ```shell
 $ npm install obe-react-drag
-# yarn add drag-react
+# yarn add obe-react-drag
 ```
 
 # Example
